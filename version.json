@@ -1,0 +1,4 @@
+{
+  "version": "1.1",
+  "changelog": "- Added full multilingual support (EN, DE, ES, FR)\n- Fixed multi-user Windows session bugs (Win+L)\n- Optimized clipboard pasting via fast binary search"
+}
